@@ -10,3 +10,7 @@ Registration is good, you can add previous and new ports
 --------------------
 Venom Rat has better settings and features than any other program or any desktop remote control. It's awesome.
 ![image](https://github.com/user-attachments/assets/d4e88775-02c6-4b44-aab3-3235811ebdc5)
+
+--------------------
+It has unique and distinctive features. Remember that you can add things to the src file yourself. You can add things and remove things.
+![image](https://github.com/user-attachments/assets/2f40067d-7354-4a34-b189-154ca77f53d4)
